@@ -3,6 +3,7 @@ import json
 
 
 class Search:
+    
 
     def get_search_results(self):
         search_term = "the lord of the rings"
